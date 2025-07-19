@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Premkumar Asode M</h1>
+<h1 align="center">Hi 👋, I'm Premkumar Asode </h1>
 <h3 align="center">🚀 Java Full-Stack Developer | 💻 Spring Boot + React Enthusiast | 🌱 Passionate about Real-Time Applications</h3>
 
 ---
@@ -14,7 +14,7 @@
 - 👨‍🎓 BE in Computer Science – VTU (Government Engineering College, Chamarajanagar)
 - 🧑‍💻 Hands-on experience with Java, Spring Boot, React, MySQL, HTML, CSS, JS
 - 🎯 Focused on solving real-world problems through scalable applications
-- 📫 Email: [shivarajushivu230@gmail.com](mailto:shivarajushivu230@gmail.com)
+- 📫 Email: [premasode01@gmail.com](mailto:premasode2001@gmail.com)
 
 ---
 
@@ -102,9 +102,7 @@
   <a href="mailto:premasode01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-u8ts.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  
 </p>
 ---
 
