@@ -40,7 +40,7 @@
 
 ## 📁 Projects
 
-### 💸 [Personal Finance Management System](https://github.com/shivu12339/personal-finance-management)
+### 💸 [Personal Finance Management System](https://github.com/Premasode/prem01/projects?query=is%3Aopen/personal-finance-management)
 > A Java Full-Stack web app to track income, expenses, savings goals, and financial reports.
 
 *Tech Stack:* Java, Spring Boot, React, MySQL, Spring Security  
