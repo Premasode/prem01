@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-- 👨‍🎓 BE in Computer Science – VTU (Government Engineering College, Chamarajanagar)
+- 👨‍🎓 BE in Electronics and Communication Engineering – VTU (Government Engineering College, Chamarajanagar)
 - 🧑‍💻 Hands-on experience with Java, Spring Boot, React, MySQL, HTML, CSS, JS
 - 🎯 Focused on solving real-world problems through scalable applications
 - 📫 Email: [premasode01@gmail.com](mailto:premasode2001@gmail.com)
