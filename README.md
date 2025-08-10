@@ -81,14 +81,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=premaose&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu12339&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=premasode&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premasode&theme=radical" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivu12339&theme=tokyo-night&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=premasode&theme=tokyo-night&area=true" width="100%"/>
 </p>
 
 ---
